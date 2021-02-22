@@ -1,1 +1,1 @@
-### Aim of the experiment
+The objective of this experiment is to demonstrate the use of Hopfield models for solving optimization problems. The main issue in solving optimization problems using neural networks is mapping of the problem to a neural network architecture. This experiment demonstrates how an optimization problem such as the graph bipartition problem, can be mapped on to an Hopfield model (feedback neural network). 
