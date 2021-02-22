@@ -1,1 +1,1 @@
-## Experiment name
+## Hopfield models for solution to optimization problems
