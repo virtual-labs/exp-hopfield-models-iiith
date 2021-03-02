@@ -26,27 +26,26 @@ The Hopfield model for the solution of graph bipartition problem is discussed he
 <img src="images/init14.png">
 
 
-**Figure 1**: *Illustration of graph with 4 nodes before annealing.*
+**Figure 2**: *Illustration of graph with 4 nodes before annealing.*
 
-Figure 1 illustrates a graph with 4 nodes before the process of annealing. Figure 2 shows the input graph and the bipartitioned graph.
-
+Figure 2 illustrates a graph with 4 nodes before the process of annealing. Figure 2 shows the input graph and the bipartitioned graph.
 
 
 <img src="images/anneal14.png">
 
 
-**Figure 2**: *Illustration of graph with 4 nodes after annealing.*
+**Figure 3**: *Illustration of graph with 4 nodes after annealing.*
 
-We see that even if there exists a solution through annealing, it need not lead to the optimum solution of the bipartition. The graph still is not divided in parts containing equal number of nodes as illustrated in Figure 2.
+We see that even if there exists a solution through annealing, it need not lead to the optimum solution of the bipartition. The graph still is not divided in parts containing equal number of nodes as illustrated in Figure 3.
 
 
 <img src="images/init614.png">
 
 
 
-**Figure 3**: *Illustration of graph with 14 nodes before annealing.*
+**Figure 4**: *Illustration of graph with 14 nodes before annealing.*
 
-Figuew 3 illustrates a graph with 14 nodes before the process of annealing. Figure 4 shows the input graph and the bipartitioned graph.
+Figure 4 illustrates a graph with 14 nodes before the process of annealing. Figure 5 shows the input graph and the bipartitioned graph.
 
 
 
@@ -54,7 +53,7 @@ Figuew 3 illustrates a graph with 14 nodes before the process of annealing. Figu
 
 
 
-**Figure 4**: *Illustration of graph with 14 nodes after annealing.*
+**Figure 5**: *Illustration of graph with 14 nodes after annealing.*
 
-We see that in the case of more number of nodes, annealing leads to the optimum solution of the bipartition. The graph still is now divided in parts containing equal number of nodes as illustrated in Fig. 4.
+We see that in the case of more number of nodes, annealing leads to the optimum solution of the bipartition. The graph still is now divided in parts containing equal number of nodes as illustrated in Fig. 5.
 
