@@ -1,1 +1,1 @@
-## Hopfield models for solution to optimization problems
+## Hopfield Models for Solution to Optimization Problems
